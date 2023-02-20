@@ -31,6 +31,14 @@ public class Main {
 }
 ```
 
+Output:
+
+```text
+3
+6
+4.0
+```
+
 ### Kode Program 2: Overriding
 
 ```java
@@ -63,6 +71,14 @@ public class Main {
     }
 }
 ```
+
+Output:
+
+```text
+Meow
+Woof
+```
+
 
 ### Kode Program 3: Overloading dan Overriding
 
@@ -112,3 +128,13 @@ public class Main {
 
 ```
 
+Output:
+
+```text
+Drawing a shape
+Drawing a shape
+Drawing a circle
+Drawing a circle with diameter 10
+Drawing a rectangle
+Drawing a rectangle with width 5 and height 7
+```
